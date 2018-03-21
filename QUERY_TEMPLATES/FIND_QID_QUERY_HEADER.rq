@@ -1,0 +1,11 @@
+SELECT DISTINCT ?item WHERE {
+{?item wdt:P703 wd:#QID#.}
+{
+{?item ?label "#GENE_NAME#"@en.}
+UNION
+{?item ?altlabel "#GENE_NAME#"@en.}
+UNION
+{?item ?label "#LOCUS_TAG#"@en.}
+UNION
+{?item ?altlabel "#LOCUS_TAG#"@en.}
+}
