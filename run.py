@@ -1,6 +1,6 @@
 from AnnotationToQIDTranslator import *
 from RegulationClaimsImporter import *
-print("*********** Welcome to the RegulonDB Interactions Wikidata importing tool v1.0 ***********")
+print("*********** Welcome to the RegulonDB Interactions Wikidata importing tool ***********")
 regulatory_file_path = input("Please enter the path of the RegulonDB interactions file: ")
 GFF_file_path = input("Please enter the path of the GFF file: ")
 Organism_QID = input("Please enter the QID of the organism: ")

@@ -7,6 +7,11 @@ It automates the importing process
 Initially, this tool was developed to show the application of small RNA data modelling in Wikidata, and was developed for parsing RegulonDB data only. Now, we are intending to further extend it and make generic.
 
 ## Prerequisites
-
+1. Install dependencies:
+   - ```pip install wikidataintegrator pywikibot bcbio-gff pandas```
+2. Modify user-config.py
+    - Go to line 43
+    - Add your Wikidata's username
 ## Usage
-
+1. Run ```python run.py```
+2. The running script will ask for further inputs

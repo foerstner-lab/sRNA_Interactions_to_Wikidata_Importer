@@ -1,5 +1,5 @@
 
-READemption is open source software and available under the MIT license.
+This tool is open source software and available under the MIT license.
 
 Copyright (c) 2018-2023, Muhammad Elhossary <muhammad_elhossary@hotmail.com> Konrad Förstner <konrad@foerstner.org>
 

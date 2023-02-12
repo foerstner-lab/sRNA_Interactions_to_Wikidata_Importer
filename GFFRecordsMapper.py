@@ -1,11 +1,13 @@
+import pandas as pd
+from itertools import cycle
+
+
 class GFFRecordsMapper:
 
     def __init__(self, gff_parsed_obj):
         self.gff_parsed_obj = gff_parsed_obj
 
     def map_gene_data(self):
-        import pandas as pd
-        from itertools import cycle
         cnt = 0
         gff_lst = list(self.gff_parsed_obj)
         gff_len = len(gff_lst)
