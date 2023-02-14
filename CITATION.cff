@@ -1,9 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Elhossary, Förstner
-    given-names: Muhammad, Konrad
-    orcid: https://orcid.org/0000-0002-6738-6089, https://orcid.org/0000-0002-1481-2996
+  - family-names: Elhossary
+    given-names: Muhammad
+    orcid: https://orcid.org/0000-0002-6738-6089
+  - family-names: Förstner
+    given-names: Konrad U.
+    orcid: https://orcid.org/0000-0002-1481-2996
 title: "sRNA interactions to Wikidata Importer"
 version: 0.1.0
 doi:
