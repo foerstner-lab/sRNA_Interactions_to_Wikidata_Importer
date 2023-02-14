@@ -1,5 +1,6 @@
 # sRNA interactions to Wikidata Importer
-
+[![License](https://img.shields.io/pypi/l/reademption.svg)](https://github.com/foerstner-lab/sRNA_Interactions_to_Wikidata_Importer)
+[![DOI](https://zenodo.org/badge/18210971.svg)](https://zenodo.org/record/7638542)
 ## Description
 This tool can be used to import interactions between small RNAs and genes to Wikidata. This tool was developed as a part of [InteractOA](https://interactoa.toolforge.org/) project. Currently, it only support importing data from [RegulonDB](https://regulondb.ccg.unam.mx/).
 It automates the importing process
